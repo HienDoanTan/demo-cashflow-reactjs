@@ -1,0 +1,25 @@
+{
+  "income": {
+    "insert": "/api/incomes/insert",
+    "history": "/api/incomes/get_history",
+    "delete": "/api/incomes/delete"
+  },
+  "expense": {
+    "insert": "/api/expense/insert",
+    "history": "/api/expense/get_history",
+    "delete": "/api/expense/delete"
+  },
+  "saving": {
+    "insert": "/api/saving/insert",
+    "history": "/api/saving/get_history",
+    "delete": "/api/saving/delete"
+  },
+  "data": {
+    "get_year": "/api/data/year",
+    "get_data_by_year": "/api/data/get_by_year",
+    "get_data_all_year": "/api/data/get_all_year"
+  },
+  "files": {
+    "upload_files": "/api/upload/upload_files"
+  }
+}

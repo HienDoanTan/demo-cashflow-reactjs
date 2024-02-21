@@ -1,0 +1,127 @@
+{
+  "expense": {
+    "name": "Chi phí",
+    "history": "Lịch sử"
+  },
+  "income": {
+    "name": "Thu nhập",
+    "history": "Lịch sử"
+  },
+  "saving": {
+    "name": "Tiết kiệm",
+    "history": "Lịch sử"
+  },
+  "notification": {
+    "notification_title": "Thông báo",
+    "notification_empty": "Dữ liệu không được rỗng!",
+    "notification_success": "Lưu dữ liệu thành công!",
+    "notification_load_data_success": "Lấy dữ liệu thành công!",
+    "notification_remove_success": "Xóa thành công!",
+    "notification_remove_failed": "Xóa thất bại!",
+    "notification_data_empty": "Không có dữ liệu!"
+  },
+  "button": {
+    "btn_Save": "Lưu",
+    "btn_search": "Tìm kiếm",
+    "btn_remove_title": "Bạn có muốn xóa?",
+    "btn_yes_txt": "Có",
+    "btn_no_txt": "Không",
+    "btn_remove_text": "Xóa",
+    "btn_donwload": "Tải xuống"
+  },
+  "text": {
+    "txt_day": "Ngày",
+    "txt_Todo": "Việc đã làm",
+    "txt_Money": "Số tiền",
+    "txt_Total_Money": "Tổng tiền",
+    "txt_remaining": "Còn lại",
+    "txt_type": "Loại",
+    "txt_notes": "Ghi chú",
+    "txt_loading": "Đang tải",
+    "txt_action": "Hành động",
+    "txt_display": "Hiển thị",
+    "txt_row": "Dòng",
+    "txt_total_income": "Tổng thu nhập",
+    "txt_total_expense": "Tổng chi phí",
+    "txt_total_saving": "Tổng tiết kiệm",
+    "txt_images": "Hình ảnh",
+    "txt_file": "Tập tin",
+    "txt_videos": "Video",
+    "txt_attach": "Đính kèm",
+    "txt_select_all": "Chọn tất cả",
+    "txt_unselect_all": "Bỏ chọn tất cả",
+    "txt_total": "Tổng cộng",
+    "txt_language": "Ngôn ngữ",
+    "txt_theme": "Giao diện"
+  },
+  "login": {
+    "txt_username_required": "Tên đăng nhập!",
+    "txt_password_required": "Nhập mật khẩu!",
+    "btn_login": "Đăng nhập",
+    "btn_register": "Đăng ký",
+    "txt_or": "Hoặc",
+    "txt_remember": "Ghi nhớ tôi",
+    "txt_forgot_password": "Quên mật khẩu"
+  },
+  "home": {
+    "title": "Trang chủ",
+    "logout": "Đăng xuất",
+    "total": "Tổng"
+  },
+  "month": {
+    "Jan": "Tháng <br/> 1",
+    "Feb": "Tháng <br/> 2",
+    "Mar": "Tháng <br/> 3",
+    "Apr": "Tháng <br/> 4",
+    "May": "Tháng <br/> 5",
+    "Jun": "Tháng <br/> 6",
+    "Jul": "Tháng <br/> 7",
+    "Aug": "Tháng <br/> 8",
+    "Sep": "Tháng <br/> 9",
+    "Oct": "Tháng <br/> 10",
+    "Nov": "Tháng <br/> 11",
+    "Dec": "Tháng <br/> 12",
+    "January": "Tháng 1",
+    "February": "Tháng 2",
+    "March": "Tháng 3",
+    "April": "Tháng 4",
+    "May_": "Tháng 5",
+    "June": "Tháng 6",
+    "July": "Tháng 7",
+    "August": "Tháng 8",
+    "September": "Tháng 9",
+    "October": "Tháng 10",
+    "November": "Tháng 11",
+    "December": "Tháng 12"
+  },
+  "chart": {
+    "year": "Năm",
+    "column_chart": "Đồ thị cột",
+    "spine_chart": "Đồ thị đường thẳng",
+    "txt_chart_income_expensive_year_by_year": "Đồ thị thu nhập, chi phí và tiết kiệm theo từng năm",
+    "txt_chart_income_expensive_month_by_month": "Đồ thị theo tháng",
+    "txt_weekly": "Hằng tuần",
+    "txt_monthly": "Hằng tháng",
+    "txt_yearly": "Hằng năm"
+  },
+  "number": {
+    "million": " Triệu",
+    "thousand": " Nghìn",
+    "billion": " Tỷ"
+  },
+  "input": {
+    "input_search_text": "Nhập nội dung tìm kiếm"
+  },
+  "account": {
+    "txt_account_profile": "Hồ sơ & tài khoản"
+  },
+  "upload_file": {
+    "listType": {
+      "text": "chữ",
+      "picture": "hình",
+      "picture-card": "loại card",
+      "picture-circle": "tròn",
+      "list_type": "Loại hiển thị"
+    }
+  }
+}

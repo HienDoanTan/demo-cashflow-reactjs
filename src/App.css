@@ -1,0 +1,297 @@
+#components-layout-demo-fixed .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: #cccccc;
+}
+
+#components-layout-demo-fixed .dark-logo {
+    background: #0092ff;
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+}
+
+#components-layout-demo-fixed .ant-layout-content.site-layout {
+    padding: 0 10px !important;
+}
+
+/* Selected cell */
+.dark .handsontable tbody th.ht__highlight, .dark .handsontable thead th.ht__highlight {
+    background-color: #0092ff;
+}
+
+/* Specific cell (B2) */
+.dark .ht_master tr td {
+    background-color: #323546;
+    border-right: 1px solid rgb(0, 21, 41);
+    border-bottom: 1px solid rgb(0, 21, 41);
+    transition: ease;
+    transition-delay: initial;
+}
+
+/* Edit mode */
+.dark .handsontableInput {
+    background-color: #323546 !important;
+    color: white !important;
+}
+
+.dark .handsontable th {
+    background-color: rgba(0, 146, 255, .75);
+    color: white;
+    border-right: 1px solid rgb(0, 21, 41);
+}
+
+.dark .handsontable th:first-child, .dark .handsontable th:nth-child(2), .dark .handsontable td:first-of-type {
+    border-right: 1px solid rgb(0, 21, 41);
+    border-bottom: 1px solid rgb(0, 21, 41);
+    border-left: 1px solid rgb(0, 21, 41);
+}
+
+.dark .handsontable tr:first-child th, .dark .handsontable tr:first-child td {
+    border-top: 1px solid rgb(0, 21, 41);
+}
+
+.dark .handsontable th:last-child {
+    border-right: 1px solid rgb(0, 21, 41);
+    border-bottom: 1px solid rgb(0, 21, 41);
+}
+
+.dark .handsontable.htRowHeaders thead tr th:nth-child(2) {
+    border-left: 1px solid rgb(0, 21, 41);
+}
+
+.dark .ant-tabs-top > .ant-tabs-nav::before, .ant-tabs-bottom > .ant-tabs-nav::before,
+.dark .ant-tabs-top > div > .ant-tabs-nav::before, .ant-tabs-bottom > div > .ant-tabs-nav::before {
+    border-bottom: 1px solid #323546;
+}
+
+.dark .ant-tabs-tab {
+    color: white;
+}
+
+.ant-spin-nested-loading > div > .ant-spin .ant-spin-text {
+    /*text-shadow: none !important;*/
+}
+
+.ant-carousel .slick-dots-bottom {
+    bottom: -10px !important;
+}
+
+.ant-carousel .slick-dots li.slick-active {
+    width: 50px !important;
+}
+
+.ant-carousel .slick-dots li button {
+    height: 12px !important;
+    border-radius: 10px !important;
+    background: #cccccc !important;
+}
+
+.ant-carousel .slick-dots li {
+    height: 10px !important;
+}
+
+.ant-carousel .slick-dots li.slick-active button {
+    background: #555555 !important;
+}
+
+/*.ant-carousel .dark-theme .slick-dots li.slick-active button {*/
+/*    background: #f1f7ff !important;*/
+/*}*/
+
+/*.ant-carousel .dark-theme .slick-dots li button {*/
+/*    background: #cccccc !important;*/
+/*}*/
+
+.ant-tabs-tab.ant-tabs-tab-disabled {
+    width: 100px;
+}
+
+.dark .handsontable th, .dark .handsontable td {
+    background-color: #323546;
+    border-right: 1px solid rgb(0, 21, 41);
+    border-bottom: 1px solid rgb(0, 21, 41);
+    color: #f1f7ff;
+}
+
+.light-theme .hot-multi .handsontable .htDimmed {
+    color: navy;
+}
+
+.dark .pika-single {
+    background: #1f1f1f;
+}
+
+.dark .pika-single .pika-label {
+    background: #1f1f1f;
+    color: #f1f7ff;
+}
+
+.dark .pika-single .pika-lendar .pika-button {
+    background: #323546;
+    color: #f1f7ff;
+}
+
+.dark .pika-single .pika-lendar .is-today .pika-button {
+    color: #33aaff;
+}
+
+.dark .pika-single .pika-lendar .is-selected .pika-button {
+    background: #33aaff;
+    color: white;
+}
+
+.dark .pika-single .pika-lendar .pika-button:hover,
+.dark .pika-single .pika-lendar .pika-row.pick-whole-week:hover .pika-button {
+    background: #2980b9;
+}
+
+.pika-prev, .pika-next {
+    overflow: hidden !important;
+}
+
+.pika-button {
+    font-size: 12px !important;
+    line-height: 15px !important;
+}
+
+.dark .ant-picker-cell-in-view.ant-picker-cell-in-range::before {
+    background: #111b26 !important;
+}
+
+.dark .ant-picker-cell-in-view.ant-picker-cell-range-start:not(.ant-picker-cell-range-start-single)::before,
+.dark .ant-picker-cell-in-view.ant-picker-cell-range-end:not(.ant-picker-cell-range-end-single)::before {
+    background: #111b26 !important;
+}
+
+.dark .ant-picker-date-panel .ant-picker-cell-in-view.ant-picker-cell-in-range.ant-picker-cell-range-hover-start .ant-picker-cell-inner::after,
+.dark .ant-picker-date-panel .ant-picker-cell-in-view.ant-picker-cell-in-range.ant-picker-cell-range-hover-end .ant-picker-cell-inner::after {
+    background: rebeccapurple;
+}
+
+.ant-list-split.ant-list-something-after-last-item .ant-spin-container > .ant-list-items > .ant-list-item:last-child {
+    border-bottom: none !important;
+}
+
+.light .ant-layout-header {
+    background-color: white !important;
+}
+
+.dark .ant-layout-header {
+    background-color: #141414 !important;
+}
+
+.light .ant-layout {
+    background-color: white !important;
+}
+
+.ant-layout {
+    background-color: #141414 !important;
+}
+.ant-layout-footer {
+    background-color: #141414 !important;
+    color: white !important;
+}
+
+.light .ant-layout-footer {
+    background-color: white !important;
+    color: black !important;
+}
+
+.dark .htCommentsContainer .htCommentTextArea {
+    background-color: #323546;
+    color: white;
+}
+
+.light .ant-tag, .dark .ant-tag {
+    font-size: 14px !important;
+    padding: 2px 7px !important;
+}
+
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td, .ant-table tfoot > tr > th, .ant-table tfoot > tr > td {
+    /*padding: 12px 4px !important;*/
+}
+
+.dark td.ant-table-column-sort {
+    background: #141414;
+}
+
+.code-box-demo {
+    padding: 42px 24px 50px;
+    color: rgba(0, 0, 0, 0.88);
+    border-bottom: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.dark .code-box-demo {
+    padding: 42px 24px 50px;
+    color: #f0f0f0;
+    border-bottom: 1px solid rgba(5, 5, 5, 0.06);
+}
+
+.actions-delete :hover {
+    color: #d32029;
+}
+
+label .checker-all {
+    cursor: pointer;
+}
+
+.handsontable tbody tr th {
+    vertical-align: middle;
+}
+
+.handsontable span.colHeader {
+    line-height: 2.1 !important;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    /*font-size: large;*/
+}
+
+.dark .ant-table-tbody > tr.ant-table-placeholder:hover > td {
+    background-color: #141414;
+}
+
+.dark .ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    background-color: #1f1f1f;
+}
+
+.dark .ant-upload-span:hover {
+    background-color: #262626;
+}
+
+.ant-upload-list.ant-upload-list-picture {
+    padding-bottom: 5px;
+}
+
+.ant-upload-list-picture .ant-upload-list-item, .ant-upload-list-picture-card .ant-upload-list-item {
+    border-radius: 8px;
+}
+
+.ant-layout-header {
+    z-index: 10 !important;
+}
+
+body {
+    margin: 0;
+}
+
+.dark .ant-btn-default {
+    background-color: #141414;
+    border-color: #424242;
+    box-shadow: 0 2px 0 rgba(255, 255, 255, 0.04);
+}
+
+.dark .ant-btn {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+/*.htCommentTextArea{*/
+/*    font-size: large;*/
+/*}*/
+.dark .ht_master:not(.innerBorderInlineStart):not(.emptyColumns) ~ .handsontable tbody tr th, .dark .ht_master:not(.innerBorderInlineStart):not(.emptyColumns) ~ .handsontable:not(.ht_clone_top) thead tr th:first-child {
+    border-left: 1px solid rgb(0, 21, 41);
+}

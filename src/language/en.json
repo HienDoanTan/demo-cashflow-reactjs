@@ -1,0 +1,127 @@
+{
+  "expense": {
+    "name": "Expense",
+    "history": "History"
+  },
+  "income": {
+    "name": "Income",
+    "history": "History"
+  },
+  "saving": {
+    "name": "Saving",
+    "history": "History"
+  },
+  "notification": {
+    "notification_title": "Notification",
+    "notification_empty": "Data is not empty!",
+    "notification_success": "Save data success!",
+    "notification_load_data_success": "Get data success!",
+    "notification_remove_success": "Remove data success",
+    "notification_remove_failed": "Remove data failed",
+    "notification_data_empty": "Empty data"
+  },
+  "button": {
+    "btn_Save": "Save",
+    "btn_search": "Search",
+    "btn_remove_title": "Are you sure delete this to do?",
+    "btn_yes_txt": "Yes",
+    "btn_no_txt": " No",
+    "btn_remove_text": "Delete",
+    "btn_donwload": "Donwload"
+  },
+  "text": {
+    "txt_day": "Days",
+    "txt_Todo": "To do",
+    "txt_Money": "Money",
+    "txt_Total_Money": "Total",
+    "txt_remaining": "Remaining",
+    "txt_type": "Type",
+    "txt_notes": "Notes",
+    "txt_loading": "Loading",
+    "txt_action": "Action",
+    "txt_display": "Display",
+    "txt_row": "Row",
+    "txt_total_income": "Total income",
+    "txt_total_expense": "Total expense",
+    "txt_total_saving": "Total saving",
+    "txt_images": "Images",
+    "txt_file": "Files",
+    "txt_videos": "Videos",
+    "txt_attach": "Attach",
+    "txt_select_all": "Select all",
+    "txt_unselect_all": "Unselect all",
+    "txt_total": "Total",
+    "txt_language": "Language",
+    "txt_theme": "Theme"
+  },
+  "login": {
+    "txt_username_required": "Please input your Username!",
+    "txt_password_required": "Please input your Password!",
+    "btn_login": "Login",
+    "btn_register": "register now!",
+    "txt_or": "Or",
+    "txt_remember": "Remember me",
+    "txt_forgot_password": "Forgot password"
+  },
+  "home": {
+    "title": "Home",
+    "logout": "Logout",
+    "total": "Total"
+  },
+  "month": {
+    "Jan": "Jan",
+    "Feb": "Feb",
+    "Mar": "Mar",
+    "Apr": "Apr",
+    "May": "May",
+    "Jun": "Jun",
+    "Jul": "Jul",
+    "Aug": "Aug",
+    "Sep": "Sep",
+    "Oct": "Oct",
+    "Nov": "Nov",
+    "Dec": "Dec",
+    "January": "January",
+    "February": "February",
+    "March":  "March",
+    "April":  "April",
+    "May_":  "May",
+    "June": "June",
+    "July" : "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December"
+  },
+  "chart": {
+    "year": "Year",
+    "column_chart": "Column chart",
+    "spine_chart": "Spine chart",
+    "txt_chart_income_expensive_year_by_year": "Graphs of income, expenses and savings year by year",
+    "txt_chart_income_expensive_month_by_month": "Graphs month by month",
+    "txt_weekly": "Weekly",
+    "txt_monthly": "Monthly",
+    "txt_yearly": "Yearly"
+  },
+  "number": {
+    "million": " Million",
+    "thousand": " Thousand",
+    "billion": " Billion"
+  },
+  "input": {
+    "input_search_text": "Input search text"
+  },
+  "account": {
+    "txt_account_profile": "Profile & account"
+  },
+  "upload_file": {
+    "listType": {
+      "text": "text",
+      "picture": "picture",
+      "picture-card": "picture in card",
+      "picture-circle": "picture circle",
+      "list_type": "Display type"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.login-form-forgot {
+    float: right;
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.site-layout-content {
+    min-height: 600px;
+}
+
+.light .login-form .ant-layout-sider, .dark .login-form .ant-layout-sider {
+    flex: 0% !important;
+    width: 50% !important;
+    max-width: 50% !important;
+    min-width: 50% !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/*.dark .ant-layout.ant-layout-has-sider.login-form .ant-layout-header{*/
+/*    background: #1f1f1f;*/
+/*}*/

@@ -1,0 +1,12 @@
+.bg-indigo-500 {
+    background-color: var(--indigo-500) !important;
+}
+.text-white {
+    color: #fff !important;
+}
+.bg-purple-500 {
+    background-color: var(--purple-500) !important;
+}
+.bg-teal-500 {
+    background-color: var(--teal-500) !important;
+}
